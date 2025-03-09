@@ -12,16 +12,16 @@
   >
   <br />
   <a
-    href="https://github.com/seu-usuario/sistema-to-do-list/actions/workflows/build.yml"
+    href="https://github.com/gustavoascalderon/sistema-to-do-list/blob/main/.github/workflows/dotnet.yml"
   >
     <img
-      src="https://github.com/seu-usuario/sistema-to-do-list/actions/workflows/build.yml/badge.svg"
+      src="https://github.com/gustavoascalderon/sistema-to-do-list/blob/main/.github/workflows/dotnet.yml/badge.svg"
       alt="Build Status"
     />
   </a>
-  <a href="https://github.com/seu-usuario/sistema-to-do-list/releases/latest">
+  <a href="https://github.com/gustavoascalderon/sistema-to-do-list/releases/latest">
     <img
-      src="https://img.shields.io/github/v/release/seu-usuario/sistema-to-do-list"
+      src="https://img.shields.io/github/v/release/gustavoascalderon/sistema-to-do-list"
       alt="Latest Release"
     />
   </a>
